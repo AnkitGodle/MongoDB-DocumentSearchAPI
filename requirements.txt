@@ -1,0 +1,6 @@
+pymongo
+sentence-transformers
+fastapi
+uvicorn
+dotenv
+numpy<2
